@@ -3,7 +3,7 @@
 Quick and dirty module to query Weather Canada's website for historical daily highs and precipitation. There are probably better solutions to this out there that query a proper API.
 
 ## Usage:
-```from weather import get_weather_range
+```from vanweather import get_weather_range
 wdf = get_weather_range((2017,4),(2017,6))
 ```
 
